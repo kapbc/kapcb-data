@@ -1,4 +1,4 @@
-package com.kapcb.security.config;
+package com.kapcb.framework.security.config;
 
 /**
  * <a>Title: SecurityConfiguration </a>

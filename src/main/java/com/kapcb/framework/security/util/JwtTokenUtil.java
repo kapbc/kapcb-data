@@ -1,4 +1,4 @@
-package com.kapcb.security.util;
+package com.kapcb.framework.security.util;
 
 /**
  * <a>Title: JwtTokenUtil </a>
