@@ -35,9 +35,18 @@
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
         </dependency>
+        <!--        <dependency>-->
+        <!--            <groupId>com.baomidou</groupId>-->
+        <!--            <artifactId>mybatis-plus-boot-starter</artifactId>-->
+        <!--        </dependency>-->
         <dependency>
-            <groupId>com.baomidou</groupId>
-            <artifactId>mybatis-plus-boot-starter</artifactId>
+            <groupId>com.github.atool</groupId>
+            <artifactId>fluent-mybatis</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.github.atool</groupId>
+            <artifactId>fluent-mybatis-processor</artifactId>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
