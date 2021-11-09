@@ -61,6 +61,10 @@
             <artifactId>kapcb-framework</artifactId>
             <version>${kapcb-framework.version}</version>
         </dependency>
+        <dependency>
+            <groupId>com.ejlchina</groupId>
+            <artifactId>bean-searcher</artifactId>
+        </dependency>
     </dependencies>
 
     <build>
