@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>kapcb-web</name>
+    <name>kapcb-data</name>
     <description>kapcb data library</description>
 
     <parent>
