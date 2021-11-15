@@ -57,11 +57,6 @@
             <artifactId>mapstruct</artifactId>
         </dependency>
         <dependency>
-            <groupId>com.kapcb.ccc</groupId>
-            <artifactId>kapcb-framework</artifactId>
-            <version>${kapcb-framework.version}</version>
-        </dependency>
-        <dependency>
             <groupId>com.ejlchina</groupId>
             <artifactId>bean-searcher</artifactId>
         </dependency>
