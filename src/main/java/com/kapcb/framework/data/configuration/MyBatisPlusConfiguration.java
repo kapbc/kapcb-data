@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Configuration;
  * @version 1.0.0
  * @date 2021/11/7 16:28
  */
-@Configuration
+@Configuration(proxyBeanMethods = false)
 public class MyBatisPlusConfiguration {
 
 //    @Bean
